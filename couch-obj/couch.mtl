@@ -1,0 +1,42 @@
+# Blender MTL File: 'None'
+# Material Count: 4
+
+newmtl 3_leather_texture_jpgMaterial
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.690196 0.690196 0.690196
+Ks 0.001176 0.001176 0.001176
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 3.leather-texture.jpg
+
+newmtl black_leather_backrest_couch_pillows_1_20150321_1179433336Mater
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.690196 0.690196 0.690196
+Ks 0.001176 0.001176 0.001176
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd black_leather_backrest_couch_pillows_1_20150321_1179433336.jpg
+
+newmtl imagesMaterial
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.690196 0.690196 0.690196
+Ks 0.001176 0.001176 0.001176
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd images.jpeg
+
+newmtl texture_couchcushionMaterial
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.690196 0.690196 0.690196
+Ks 0.001176 0.001176 0.001176
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd texture_couchcushion.jpg
